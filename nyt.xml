@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:gml="http://www.opengis.net/gml" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:media="http://search.yahoo.com/mrss" version="2.0">
+  <channel>
+    <title>NYT &gt; World</title>
+    <link>https://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    <description />
+    <language>en-us</language>
+    <copyright>Copyright 2017  The New York Times Company</copyright>
+    <pubDate>Wed, 03 May 2017 18:44:52 GMT</pubDate>
+    <dc:date>2017-05-03T18:44:52Z</dc:date>
+    <dc:language>en-us</dc:language>
+    <dc:rights>Copyright 2017  The New York Times Company</dc:rights>
+    <image>
+      <title>NYT &gt; World</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>Marine Le Pen, a Fierce Campaigner, Heads to Finale in French Election</title>
+      <link>https://www.nytimes.com/2017/05/03/world/europe/marine-le-pen-france-election.html?partner=rss&amp;emc=rss</link>
+      <description>A far-right populist who has threatened to bring down the European Union, Ms. Le Pen is at the threshold of power as France prepares for the final round of voting.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Front (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <pubDate>Wed, 03 May 2017 12:15:57 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/03/world/europe/marine-le-pen-france-election.html</guid>
+      <dc:creator>ADAM NOSSITER</dc:creator>
+      <dc:date>2017-05-03T12:15:57Z</dc:date>
+      <geo:lat>46.0</geo:lat>
+      <geo:long>2.0</geo:long>
+    </item>
+    <item>
+      <title>Rising Knife Violence Alarms Britain as Youths Take Up Arms</title>
+      <link>https://www.nytimes.com/2017/05/03/world/europe/britain-uk-knife-violence.html?partner=rss&amp;emc=rss</link>
+      <description>Amid a 24 percent increase in knife crimes, officials are struggling to persuade young people not to carry the weapons, but many cite a need for protection.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Youth</category>
+      <pubDate>Wed, 03 May 2017 09:00:16 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/03/world/europe/britain-uk-knife-violence.html</guid>
+      <dc:creator>CEYLAN YEGINSU</dc:creator>
+      <dc:date>2017-05-03T09:00:16Z</dc:date>
+      <geo:lat>51.5127888902952</geo:lat>
+      <geo:long>-0.0918388366699219</geo:long>
+    </item>
+    <item>
+      <title>To Understand ‘Brexit,’ Look to Britain’s Tabloids</title>
+      <link>https://www.nytimes.com/2017/05/02/world/europe/london-tabloids-brexit.html?partner=rss&amp;emc=rss</link>
+      <description>Despite their falling circulations and tarnished reputations, tabloids maintain a striking grip on power as Britain prepares to cut ties with the European Union.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Newspapers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murdoch, Rupert</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Sun, The (British Newspaper)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Tabloids</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gallagher, Tony (1963- )</category>
+      <pubDate>Tue, 02 May 2017 11:45:08 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/02/world/europe/london-tabloids-brexit.html</guid>
+      <dc:creator>KATRIN BENNHOLD</dc:creator>
+      <dc:date>2017-05-02T11:45:08Z</dc:date>
+      <geo:lat>54.75844423584778</geo:lat>
+      <geo:long>-2.6953116059303284</geo:long>
+    </item>
+    <item>
+      <title>Memo From Beijing: Why Trump’s Budding Bromance With Xi Is Doomed</title>
+      <link>https://www.nytimes.com/2017/05/03/world/asia/why-trumps-budding-bromance-with-xi-is-doomed.html?partner=rss&amp;emc=rss</link>
+      <description>Beneath the bonhomie, experts say, are differences of strategic interest that may keep President Trump from getting the results he wants on North Korea.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beijing (China)</category>
+      <pubDate>Wed, 03 May 2017 13:32:52 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/03/world/asia/why-trumps-budding-bromance-with-xi-is-doomed.html</guid>
+      <dc:creator>JANE PERLEZ</dc:creator>
+      <dc:date>2017-05-03T13:32:52Z</dc:date>
+      <geo:lat>39.9074977414405</geo:lat>
+      <geo:long>116.397228240967</geo:long>
+    </item>
+    <item>
+      <title>Hosting Palestinian Leader, Trump Promises Middle East Peace</title>
+      <link>https://www.nytimes.com/2017/05/03/world/middleeast/mahmoud-abbas-trump-white-house.html?partner=rss&amp;emc=rss</link>
+      <description>President Trump met with President Mahmoud Abbas at the White House and repeated his commitment to pulling off “the toughest deal”</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbas, Mahmoud</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Palestinian Authority</category>
+      <pubDate>Wed, 03 May 2017 18:27:08 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/03/world/middleeast/mahmoud-abbas-trump-white-house.html</guid>
+      <dc:creator>PETER BAKER</dc:creator>
+      <dc:date>2017-05-03T18:27:08Z</dc:date>
+      <geo:lat>31.9215700159324</geo:lat>
+      <geo:long>35.2032852172852</geo:long>
+    </item>
+    <item>
+      <title>IHT Retrospective Blog: 1892: Berlin’s Prefect of Police on the Socialist Movement</title>
+      <link>https://iht-retrospective.blogs.nytimes.com/2017/05/03/1892-berlins-prefect-of-police-on-the-socialist-movement/?partner=rss&amp;emc=rss</link>
+      <description>Berlin’s prefect of police, Baron Von Richthoffen, was interviewed on the German Socialist Movement.</description>
+      <category domain="http://www.nytimes.com/namespaces/">Socialism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/">In Our Pages</category>
+      <category domain="http://www.nytimes.com/namespaces/">Berlin (Germany)</category>
+      <pubDate>Wed, 03 May 2017 15:22:34 GMT</pubDate>
+      <guid isPermaLink="false">https://iht-retrospective.blogs.nytimes.com/2017/05/03/1892-berlins-prefect-of-police-on-the-socialist-movement/</guid>
+      <dc:creator>INTERNATIONAL HERALD TRIBUNE</dc:creator>
+      <dc:date>2017-05-03T15:22:34Z</dc:date>
+      <geo:lat>52.524368165134284</geo:lat>
+      <geo:long>13.410530090332031</geo:long>
+    </item>
+    <item>
+      <title>After Trump’s Phone Call to Philippines Leader, China’s President Calls Him</title>
+      <link>https://www.nytimes.com/2017/05/03/world/asia/trump-duterte-xi-south-china-sea.html?partner=rss&amp;emc=rss</link>
+      <description>President Xi Jinping of China praised President Rodrigo Duterte of the Philippines in the phone call, part of an effort to woo a longtime American ally.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South China Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Duterte, Rodrigo</category>
+      <pubDate>Wed, 03 May 2017 15:10:14 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/03/world/asia/trump-duterte-xi-south-china-sea.html</guid>
+      <dc:creator>JAVIER C. HERNÁNDEZ</dc:creator>
+      <dc:date>2017-05-03T15:10:14Z</dc:date>
+      <geo:lat>24.433745</geo:lat>
+      <geo:long>100.81989</geo:long>
+    </item>
+    <item>
+      <title>American Is Charged in Tokyo After Fistfight on Los Angeles-Bound Flight</title>
+      <link>https://www.nytimes.com/2017/05/03/world/asia/flight-japan-los-angeles-fight.html?partner=rss&amp;emc=rss</link>
+      <description>A widely shared video showed the man, who was not identified by the authorities, in a violent altercation before takeoff.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tokyo (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Air Nippon Airways</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">air rage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Assaults</category>
+      <pubDate>Wed, 03 May 2017 13:45:07 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/03/world/asia/flight-japan-los-angeles-fight.html</guid>
+      <dc:creator>MAKIKO INOUE</dc:creator>
+      <dc:date>2017-05-03T13:45:07Z</dc:date>
+      <geo:lat>35.6895</geo:lat>
+      <geo:long>139.69171</geo:long>
+    </item>
+    <item>
+      <title>Study Disputes Success of China’s $100 Billion Forest Effort</title>
+      <link>https://www.nytimes.com/2017/05/03/world/asia/study-disputes-success-of-chinas-100-billion-forest-effort.html?partner=rss&amp;emc=rss</link>
+      <description>A new study suggests that some official estimates of a nationwide campaign to plant new forests overstated its successes, and mistook shrubs for forests.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Proceedings of the Royal Society B (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trees and Shrubs</category>
+      <pubDate>Wed, 03 May 2017 13:35:56 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/03/world/asia/study-disputes-success-of-chinas-100-billion-forest-effort.html</guid>
+      <dc:creator>MIKE IVES</dc:creator>
+      <dc:date>2017-05-03T13:35:56Z</dc:date>
+      <geo:lat>35.0</geo:lat>
+      <geo:long>105.0</geo:long>
+    </item>
+    <item>
+      <title>Shinzo Abe Announces Plan to Revise Japan’s Pacifist Constitution</title>
+      <link>https://www.nytimes.com/2017/05/03/world/asia/japan-constitution-shinzo-abe-military.html?partner=rss&amp;emc=rss</link>
+      <description>The prime minister said he wanted to make “explicit the status” of the country’s military by 2020.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abe, Shinzo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
+      <pubDate>Wed, 03 May 2017 13:00:10 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/03/world/asia/japan-constitution-shinzo-abe-military.html</guid>
+      <dc:creator>MOTOKO RICH</dc:creator>
+      <dc:date>2017-05-03T13:00:10Z</dc:date>
+      <geo:lat>35.6853569043379</geo:lat>
+      <geo:long>139.753088951111</geo:long>
+    </item>
+    <item>
+      <title>As France Prepares to Vote, Angela Merkel Praises Emmanuel Macron</title>
+      <link>https://www.nytimes.com/2017/05/03/world/europe/merkel-macron-le-pen-france-election.html?partner=rss&amp;emc=rss</link>
+      <description>The German chancellor said she would not interfere in French voters’ decision, but “would be pleased” if the pro-Europe candidate won.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Merkel, Angela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <pubDate>Wed, 03 May 2017 12:47:59 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/03/world/europe/merkel-macron-le-pen-france-election.html</guid>
+      <dc:creator>ALISON SMALE</dc:creator>
+      <dc:date>2017-05-03T12:47:59Z</dc:date>
+      <geo:lat>46.0</geo:lat>
+      <geo:long>2.0</geo:long>
+    </item>
+    <item>
+      <title>Philippines Rejects Environment Chief Who Took On Mining Interests</title>
+      <link>https://www.nytimes.com/2017/05/03/world/asia/gina-lopez-philippines-environment-secretary.html?partner=rss&amp;emc=rss</link>
+      <description>Before her appointment was shot down in Congress, Gina Lopez had acted aggressively to close mining companies accused of violating environmental laws.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lopez, Gina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Duterte, Rodrigo</category>
+      <pubDate>Wed, 03 May 2017 12:46:33 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/03/world/asia/gina-lopez-philippines-environment-secretary.html</guid>
+      <dc:creator>AURORA ALMENDRAL</dc:creator>
+      <dc:date>2017-05-03T12:46:33Z</dc:date>
+      <geo:lat>18.0</geo:lat>
+      <geo:long>105.0</geo:long>
+    </item>
+    <item>
+      <title>Blast at Coal Mine in Iran Kills at Least 2 and Traps Dozens</title>
+      <link>https://www.nytimes.com/2017/05/03/world/middleeast/iran-miners-trapped.html?partner=rss&amp;emc=rss</link>
+      <description>Initial news accounts from Iran said 90 miners were trapped, but the figure was later reduced to 26. At least two were killed and 25 hurt.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Explosions (Accidental)</category>
+      <pubDate>Wed, 03 May 2017 13:13:54 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/03/world/middleeast/iran-miners-trapped.html</guid>
+      <dc:creator>THOMAS ERDBRINK</dc:creator>
+      <dc:date>2017-05-03T13:13:54Z</dc:date>
+      <geo:lat>32.0</geo:lat>
+      <geo:long>53.0</geo:long>
+    </item>
+    <item>
+      <title>South Korea’s Next President: A Look at the Leading Candidates</title>
+      <link>https://www.nytimes.com/2017/05/03/world/asia/south-korea-election-moon-jae-in-ahn-cheol-soo-hong-joon-pyo-trump.html?partner=rss&amp;emc=rss</link>
+      <description>South Koreans head to the polls on May 9. The leader they choose will face many uncertainties, not least of them President Trump.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hong, Joon-pyo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ahn Cheol-soo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moon Jae-in</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Park Geun-hye</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-multimedia</category>
+      <pubDate>Wed, 03 May 2017 11:18:00 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/03/world/asia/south-korea-election-moon-jae-in-ahn-cheol-soo-hong-joon-pyo-trump.html</guid>
+      <dc:creator>CHOE SANG-HUN and RUSSELL GOLDMAN</dc:creator>
+      <dc:date>2017-05-03T11:18:00Z</dc:date>
+      <geo:lat>36.5</geo:lat>
+      <geo:long>127.75</geo:long>
+    </item>
+    <item>
+      <title>HNA Group, Secretive Chinese Conglomerate, Takes Top Stake in Deutsche Bank</title>
+      <link>https://www.nytimes.com/2017/05/03/business/dealbook/china-hna-group.html?partner=rss&amp;emc=rss</link>
+      <description>The company, which started as an airline in 1993, has become a major global deal maker, expanding into several industries around the world.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">HNA Group Co Ltd</category>
+      <pubDate>Wed, 03 May 2017 10:33:27 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/03/business/dealbook/china-hna-group.html</guid>
+      <dc:creator>THE NEW YORK TIMES</dc:creator>
+      <dc:date>2017-05-03T10:33:27Z</dc:date>
+      <geo:lat>35.0</geo:lat>
+      <geo:long>105.0</geo:long>
+    </item>
+    <item>
+      <title>It’s Complicated: The Path of an Israeli-Palestinian Love Story</title>
+      <link>https://www.nytimes.com/2017/05/03/books/its-complicated-the-path-of-an-israeli-palestinian-love-story.html?partner=rss&amp;emc=rss</link>
+      <description>Dorit Rabinyan hopes Americans will read her prizewinning novel, ‘All the Rivers,’ for its story, and not the controversy surrounding it in Israel.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rabinyan, Dorit</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">All the Rivers (Book)</category>
+      <pubDate>Wed, 03 May 2017 09:00:16 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/03/books/its-complicated-the-path-of-an-israeli-palestinian-love-story.html</guid>
+      <dc:creator>IAN FISHER</dc:creator>
+      <dc:date>2017-05-03T09:00:16Z</dc:date>
+      <geo:lat>31.5</geo:lat>
+      <geo:long>34.75</geo:long>
+    </item>
+    <item>
+      <title>The Money Issue: Israel’s Invisible Filipino Work Force</title>
+      <link>https://www.nytimes.com/2017/05/03/magazine/israels-invisible-filipino-work-force.html?partner=rss&amp;emc=rss</link>
+      <description>To support their families back home, women from the Philippines have found work and a new way of life in Israel. But at what price?</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elder Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Immigration and Emigration</category>
+      <pubDate>Wed, 03 May 2017 09:00:02 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/03/magazine/israels-invisible-filipino-work-force.html</guid>
+      <dc:creator>RUTH MARGALIT</dc:creator>
+      <dc:date>2017-05-03T09:00:02Z</dc:date>
+      <geo:lat>31.5</geo:lat>
+      <geo:long>34.75</geo:long>
+    </item>
+    <item>
+      <title>North Korea Confirms Detention of Tony Kim, an American Teacher</title>
+      <link>https://www.nytimes.com/2017/05/03/world/asia/north-korea-arrest-american-tony-kim.html?partner=rss&amp;emc=rss</link>
+      <description>The state news agency said that Mr. Kim had been arrested last month for “hostile criminal acts.” He is the third American believed to be held.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Dong-chul</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim, Tony (Kim Sang-duk)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warmbier, Otto Frederick (1994- )</category>
+      <pubDate>Wed, 03 May 2017 08:52:27 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/03/world/asia/north-korea-arrest-american-tony-kim.html</guid>
+      <dc:creator>CHOE SANG-HUN</dc:creator>
+      <dc:date>2017-05-03T08:52:27Z</dc:date>
+      <geo:lat>40.0</geo:lat>
+      <geo:long>127.0</geo:long>
+    </item>
+    <item>
+      <title>Suicide Bombing of U.S. Military Convoy in Kabul Kills 8 Afghans</title>
+      <link>https://www.nytimes.com/2017/05/03/world/asia/kabul-attack-suicide-bomber-afghanistan.html?partner=rss&amp;emc=rss</link>
+      <description>The explosion, close to the United States Embassy, wounded at least 25 civilians and three American soldiers, officials said.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001-14)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-multimedia</category>
+      <pubDate>Wed, 03 May 2017 14:35:01 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/03/world/asia/kabul-attack-suicide-bomber-afghanistan.html</guid>
+      <dc:creator>MUJIB MASHAL and FAHIM ABED</dc:creator>
+      <dc:date>2017-05-03T14:35:01Z</dc:date>
+      <geo:lat>34.565853</geo:lat>
+      <geo:long>69.212328</geo:long>
+    </item>
+    <item>
+      <title>Journalists at 2 of Australia’s Biggest Papers Strike Over Job Cuts</title>
+      <link>https://www.nytimes.com/2017/05/03/world/australia/newspaper-fairfax-strike-smh-the-age.html?partner=rss&amp;emc=rss</link>
+      <description>The walkout at The Sydney Morning Herald and The Age in Melbourne comes after Fairfax Media announced that it would eliminate 125 positions.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Strikes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sydney (Australia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
+      <pubDate>Wed, 03 May 2017 11:38:46 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/03/world/australia/newspaper-fairfax-strike-smh-the-age.html</guid>
+      <dc:creator>JACQUELINE WILLIAMS</dc:creator>
+      <dc:date>2017-05-03T11:38:46Z</dc:date>
+      <geo:lat>-33.8678499639382</geo:lat>
+      <geo:long>151.207323074341</geo:long>
+    </item>
+    <item>
+      <title>Europe Edition: Marine Le Pen, Russia, Champions League: Your Wednesday Briefing</title>
+      <link>https://www.nytimes.com/2017/05/03/briefing/marine-le-pen-russia-champions-league.html?partner=rss&amp;emc=rss</link>
+      <description>Here’s what you need to know to start your day.</description>
+      <pubDate>Wed, 03 May 2017 06:33:11 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/03/briefing/marine-le-pen-russia-champions-league.html</guid>
+      <dc:creator>PATRICK BOEHLER</dc:creator>
+      <dc:date>2017-05-03T06:33:11Z</dc:date>
+    </item>
+    <item>
+      <title>How Taking Flight in London Helped ‘Angels in America’ Soar</title>
+      <link>https://www.nytimes.com/2017/05/03/theater/angels-in-america-london.html?partner=rss&amp;emc=rss</link>
+      <description>As Tony Kushner’s masterwork reopens at the National Theater, creators of the first British production recall the intensity of working in a small space.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kushner, Tony</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Angels in America (Play)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Royal National Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Donnellan, Declan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eyre, Richard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elliott, Marianne</category>
+      <pubDate>Wed, 03 May 2017 04:01:12 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/03/theater/angels-in-america-london.html</guid>
+      <dc:creator>MATT TRUEMAN</dc:creator>
+      <dc:date>2017-05-03T04:01:12Z</dc:date>
+    </item>
+    <item>
+      <title>Trump’s Turn Toward China Curtails Navy Patrols in Disputed Zones</title>
+      <link>https://www.nytimes.com/2017/05/02/world/asia/navy-south-china-sea.html?partner=rss&amp;emc=rss</link>
+      <description>In a shift from a promise to reverse an Obama policy, three Navy requests to sail a warship near a shoal in the South China Sea were rejected.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tillerson, Rex W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South China Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United States Navy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scarborough Shoal (South China Sea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mattis, James N</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <pubDate>Wed, 03 May 2017 14:36:33 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/02/world/asia/navy-south-china-sea.html</guid>
+      <dc:creator>HELENE COOPER</dc:creator>
+      <dc:date>2017-05-03T14:36:33Z</dc:date>
+    </item>
+    <item>
+      <title>G.O.P. Pressures Trump to Take Tough Stance With Mahmoud Abbas</title>
+      <link>https://www.nytimes.com/2017/05/02/world/middleeast/palestine-mahmoud-abbas.html?partner=rss&amp;emc=rss</link>
+      <description>With the Palestinian leader visiting the White House on Wednesday, Republicans are demanding that payments to the families of Palestinians who commit violence end.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Palestine Liberation Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbas, Mahmoud</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <pubDate>Wed, 03 May 2017 01:08:11 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/02/world/middleeast/palestine-mahmoud-abbas.html</guid>
+      <dc:creator>PETER BAKER</dc:creator>
+      <dc:date>2017-05-03T01:08:11Z</dc:date>
+    </item>
+    <item>
+      <title>Hamas Leader Plays Final Hand: Trying to Lift Group’s Pariah Status</title>
+      <link>https://www.nytimes.com/2017/05/02/world/middleeast/hamas-khaled-meshal-gaza.html?partner=rss&amp;emc=rss</link>
+      <description>Khaled Meshal is stepping down as Hamas’s leader after over two decades, but his parting act, an attempt to put a friendly face on the militant group, has found few takers.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meshal, Khaled</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">International Relations</category>
+      <pubDate>Wed, 03 May 2017 00:44:52 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/02/world/middleeast/hamas-khaled-meshal-gaza.html</guid>
+      <dc:creator>DECLAN WALSH</dc:creator>
+      <dc:date>2017-05-03T00:44:52Z</dc:date>
+    </item>
+    <item>
+      <title>British Columbia’s Business Temptation: An Opaque Array of Tax Breaks</title>
+      <link>https://www.nytimes.com/2017/05/02/world/canada/british-columbias-business-temptation-an-opaque-array-of-tax-breaks.html?partner=rss&amp;emc=rss</link>
+      <description>Proponents of the program say it helps stimulate the economy, but fewer than 300 jobs have been created. Critics say it prioritizes privacy over accountability.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporate Taxes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Tax Credits, Deductions and Exemptions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">British Columbia (Canada)</category>
+      <pubDate>Tue, 02 May 2017 23:44:21 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/02/world/canada/british-columbias-business-temptation-an-opaque-array-of-tax-breaks.html</guid>
+      <dc:creator>DAN LEVIN</dc:creator>
+      <dc:date>2017-05-02T23:44:21Z</dc:date>
+    </item>
+    <item>
+      <title>Debate Over Paris Climate Deal Could Turn on a Single Phrase</title>
+      <link>https://www.nytimes.com/2017/05/02/climate/trump-paris-climate-accord.html?partner=rss&amp;emc=rss</link>
+      <description>The Trump administration is split on whether the phrase allows a country to back away from its emissions pledges, as the president has pledged to do.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Politico, The</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Ivanka</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pruitt, Scott</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <pubDate>Wed, 03 May 2017 02:27:03 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/02/climate/trump-paris-climate-accord.html</guid>
+      <dc:creator>JOHN SCHWARTZ</dc:creator>
+      <dc:date>2017-05-03T02:27:03Z</dc:date>
+    </item>
+    <item>
+      <title>Trump, Putin, Jimmy Kimmel: Your Tuesday Evening Briefing</title>
+      <link>https://www.nytimes.com/2017/05/02/briefing/trump-putin-jimmy-kimmel.html?partner=rss&amp;emc=rss</link>
+      <description>Here’s what you need to know at the end of the day.</description>
+      <pubDate>Wed, 03 May 2017 01:30:34 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/02/briefing/trump-putin-jimmy-kimmel.html</guid>
+      <dc:creator>KAREN ZRAICK and SANDRA STEVENSON</dc:creator>
+      <dc:date>2017-05-03T01:30:34Z</dc:date>
+    </item>
+    <item>
+      <title>What Makes Good Neighbors? In This German City, It’s Not Good Fences</title>
+      <link>https://www.nytimes.com/2017/05/02/insider/what-makes-good-neighbors-in-one-german-city-it-might-not-be-the-fences.html?partner=rss&amp;emc=rss</link>
+      <description>For almost a year, Times reporters followed the process of refugee integration in Weimar, home to both Goethe and Buchenwald.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and Africa Migrant Crisis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Weimar (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <pubDate>Tue, 02 May 2017 20:21:43 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/02/insider/what-makes-good-neighbors-in-one-german-city-it-might-not-be-the-fences.html</guid>
+      <dc:creator>RICK LYMAN</dc:creator>
+      <dc:date>2017-05-02T20:21:43Z</dc:date>
+    </item>
+    <item>
+      <title>Asia and Australia Edition: Putin, Ivanka Trump, Marine Le Pen: Your Morning Briefing</title>
+      <link>https://www.nytimes.com/2017/05/02/briefing/putin-ivanka-trump-marine-le-pen.html?partner=rss&amp;emc=rss</link>
+      <description>Here’s what you need to know to start your day.</description>
+      <pubDate>Wed, 03 May 2017 01:20:51 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/02/briefing/putin-ivanka-trump-marine-le-pen.html</guid>
+      <dc:creator>CHARLES McDERMID</dc:creator>
+      <dc:date>2017-05-03T01:20:51Z</dc:date>
+    </item>
+    <item>
+      <title>Islamic State Attack Kills Dozens Near Syria Refugee Camp</title>
+      <link>https://www.nytimes.com/2017/05/02/world/middleeast/islamic-state-attack-syria-refugees.html?partner=rss&amp;emc=rss</link>
+      <description>The attack, one of the largest recent ones in northeastern Syria, occurred near a refugee camp that houses nearly 17,000 people.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">International Rescue Committee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <pubDate>Tue, 02 May 2017 19:36:28 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/02/world/middleeast/islamic-state-attack-syria-refugees.html</guid>
+      <dc:creator>ANNE BARNARD</dc:creator>
+      <dc:date>2017-05-02T19:36:28Z</dc:date>
+    </item>
+    <item>
+      <title>E.U. Sets Aside Calls to End Visa-Free Travel for Americans</title>
+      <link>https://www.nytimes.com/2017/05/02/world/europe/eu-visas-united-states.html?partner=rss&amp;emc=rss</link>
+      <description>The European Commission has rejected, for now, calls to retaliate against an American policy that requires citizens of five countries in the bloc to obtain visas to enter the United States.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Parliament</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Visas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Avramopoulos, Dimitris</category>
+      <pubDate>Tue, 02 May 2017 19:36:02 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/02/world/europe/eu-visas-united-states.html</guid>
+      <dc:creator>SEWELL CHAN</dc:creator>
+      <dc:date>2017-05-02T19:36:02Z</dc:date>
+    </item>
+    <item>
+      <title>China Craves Foreign Goods. Students in Australia Supply Them.</title>
+      <link>https://www.nytimes.com/2017/05/02/world/australia/china-students-daigou.html?partner=rss&amp;emc=rss</link>
+      <description>Australian goods are hot commodities in China, and tens of thousands of young Chinese have built a cottage industry to meet the demand.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <pubDate>Tue, 02 May 2017 19:30:18 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/02/world/australia/china-students-daigou.html</guid>
+      <dc:creator>JACQUELINE WILLIAMS and XIUZHONG XU</dc:creator>
+      <dc:date>2017-05-02T19:30:18Z</dc:date>
+    </item>
+    <item>
+      <title>Kremlin Critic Aleksei Navalny Says Attack Left Him Mostly Blind in an Eye</title>
+      <link>https://www.nytimes.com/2017/05/02/world/europe/russia-aleksei-navalny-opposition.html?partner=rss&amp;emc=rss</link>
+      <description>The opposition leader said a doctor told him that he had lost 80 percent of his sight in one eye after suffering a chemical burn when an assailant threw a liquid in his face.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Navalny, Aleksei A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <pubDate>Tue, 02 May 2017 19:24:50 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/02/world/europe/russia-aleksei-navalny-opposition.html</guid>
+      <dc:creator>ANDREW E. KRAMER</dc:creator>
+      <dc:date>2017-05-02T19:24:50Z</dc:date>
+    </item>
+    <item>
+      <title>Brazil Yellow Fever Outbreak Spawns Alert: Stop Killing the Monkeys</title>
+      <link>https://www.nytimes.com/2017/05/02/world/americas/brazil-yellow-fever-monkeys.html?partner=rss&amp;emc=rss</link>
+      <description>Authorities are urging worried residents to stop killing monkeys, which experts say can serve as beacons for where the virus is spreading.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">World Health Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monkeys and Apes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Yellow Fever</category>
+      <pubDate>Tue, 02 May 2017 20:14:34 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2017/05/02/world/americas/brazil-yellow-fever-monkeys.html</guid>
+      <dc:creator>SIMON ROMERO</dc:creator>
+      <dc:date>2017-05-02T20:14:34Z</dc:date>
+    </item>
+  </channel>
+</rss>
+
